@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0966e6b4-98b7-4b46-8a52-e1cb371d43c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/simpleFactory/Apple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/simpleFactory/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/singleton/EagerSingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/simpleFactory/Fruits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/simpleFactory/FruitsFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/singleton/InnerSingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/simpleFactory/Orange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/singleton/RegisterSingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/xinux/main/singleton/SafeLazySingleton.java" />
-    </list>
+    <list default="true" id="0966e6b4-98b7-4b46-8a52-e1cb371d43c1" name="Default" comment="" />
     <ignored path="javaDesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -516,12 +506,12 @@
       <changelist id="0966e6b4-98b7-4b46-8a52-e1cb371d43c1" name="Default" comment="" />
       <created>1423471705490</created>
       <updated>1423471705490</updated>
-      <workItem from="1423471707183" duration="4353000" />
+      <workItem from="1423471707183" duration="4396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4353000" />
+    <option name="totallyTimeSpent" value="4396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
